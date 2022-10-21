@@ -31,8 +31,8 @@ p {
 
 .intro-chunk {
   margin: 0 auto;
-  max-width: 625px;
-  padding: 40px 0;
+  max-width: 610px;
+  padding: 40px 15px;
 }
 
 .intro-chunk p {
@@ -41,7 +41,7 @@ p {
 
 main {
   background-color: hsl(0deg, 0%, 60%);
-  padding: 48px 64px;
+  padding: 48px 0;
   border-top: 8px solid hsl(0deg, 0%, 30%);
 }
 
